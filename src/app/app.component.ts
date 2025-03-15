@@ -1,12 +1,10 @@
 import { Component } from '@angular/core';
-import { RouterOutlet } from '@angular/router';
+import { ImcComponent } from './imc/imc.component';
 
 @Component({
   selector: 'app-root',
-  imports: [RouterOutlet],
-  templateUrl: './app.component.html',
-  styleUrl: './app.component.css'
+  standalone: true,
+  imports: [ImcComponent],
+  template: `<app-imc></app-imc>`,
 })
-export class AppComponent {
-  title = 'Calc-Imc';
-}
+export class AppComponent {}
