@@ -1,9 +1,9 @@
 h2 {
-  font-size: 2rem; /* Tamanho da fonte */
-  color: #8a03af; /* Cor azul do Bootstrap */
+  font-size: 2rem; 
+  color: #8a03af; 
   font-weight: bold;
-  text-transform: uppercase; /* Deixar tudo em maiúsculas */
-  margin-bottom: 25px; /* Espaço abaixo do título */
+  text-transform: uppercase; 
+  margin-bottom: 25px; 
 }
 
 /* Centralizar a calculadora na tela */
