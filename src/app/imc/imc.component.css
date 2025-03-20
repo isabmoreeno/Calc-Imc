@@ -6,21 +6,18 @@ h2 {
   margin-bottom: 25px; 
 }
 
-/* Centralizar a calculadora na tela */
 .container {
   padding-top: 125px;
   max-width: 450px;
   margin: auto;
 }
 
-/* Melhorando a aparência do card */
 .card {
   border-radius: 12px;
   border: none;
   background: #f8f9fa;
 }
 
-/* Melhorando o botão */
 .btn-primary {
   letter-spacing: 1px;
   background-color: #8a03af;
@@ -28,7 +25,6 @@ h2 {
   font-weight: bold;
 }
 
-/* Melhorando a exibição do IMC */
 .text-center h4 {
   color: #28a745;
 }
@@ -38,7 +34,6 @@ h2 {
   color: #dc3545;
 }
 
-/* Ajustando a imagem */
 .img-fluid {
   border-radius: 10px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
